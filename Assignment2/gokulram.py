@@ -7,8 +7,8 @@ from email.message import EmailMessage
 thresh=36.5
 '''#An optional mail sending function to alert using mail
 def send_mail():
-  send_add="gokul.subramani33@gmail.com"
-  to_add="kgurubaran2006@gmail.com"
+  send_add="...@gmail.com"
+  to_add="...@gmail.com"
   passw='coqoekeamuuckapc'
   s=smtplib.SMTP_SSL("smtp.gmail.com",port=465)
   s.login(send_add,passw)
