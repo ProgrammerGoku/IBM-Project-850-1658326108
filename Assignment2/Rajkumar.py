@@ -1,10 +1,20 @@
 from random import randint
-high= 50
-buzz=0
+import smtplib
+limit= 35
+mail_id=input("Enter sender Mailid")
+password=input("Enter sender password")
+receiver=input("Enter receiver Mailid")
+def mail():
+    connect=smtplib.SMTP('smtp.gmail.com',587)
+    connect.starttls()
+    connect.login(mail_id,password)
+    connect.sendmail(mail_id,receiver,'Alert!')
+    print("Mail sent")
 while(True):
-      temp= randint(0,100)
-      hum= randint(0,100)
-      if (temp>=high):
-            buzz=1
-      else:
-            buzz=0
+    temperature,humidity=randint(25,40),randint(25,40)
+    if temperature>limit:
+        print("Alert! high temperature")
+        mail()       
+    if humidity>limit:
+        print("Humidity level=",humidity)
+        mail()
