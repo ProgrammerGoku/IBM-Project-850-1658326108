@@ -14,3 +14,5 @@ IoT integrated big data analytics is appeared to be a better solution as reliabi
 * RAJKUMAR
 
 ## 🗺️ EMPATHY MAP - [Click Here](https://github.com/IBM-EPBL/IBM-Project-850-1658326108/blob/main/Empathy_Map.png)
+## 🧠 BRAINSTORMING -[Click Here](https://github.com/IBM-EPBL/IBM-Project-850-1658326108/blob/main/Brainstorming.pdf)
+## 💻 LITERATURE SURVEY -[Click Here](https://github.com/IBM-EPBL/IBM-Project-850-1658326108/blob/main/Literature_survey.pdf)
