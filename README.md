@@ -3,7 +3,7 @@
 - TECHNOLOGY : IOT
 
 # 📒 PROJECT DESCRIPTION
-To develop a system for real time quality assessment for river water health at residential places using Raspberry Pi. 
+To develop a system for real time quality assessment for river water health at residential places using Arduino,ESP32. 
 Sensors are used to gather different parameters in River water to monitor water health in real time.
 IoT integrated big data analytics is appeared to be a better solution as reliability, scalability, speed, and persistence can be provided
 
