@@ -22,6 +22,25 @@ IBM Cloud,IBM Cloud Object Storage,Python,IBM Watson IoT Platform,Node-RED servi
 ## 🧠 BRAINSTORMING -[Click Here](https://github.com/IBM-EPBL/IBM-Project-850-1658326108/blob/main/ProjectDesign%26Planning/Ideation_Phase/Brainstorming.pdf)
 ## 💻 LITERATURE SURVEY -[Click Here](https://github.com/IBM-EPBL/IBM-Project-850-1658326108/blob/main/ProjectDesign%26Planning/Ideation_Phase/Literature_survey.pdf)
 
+# **💡PROJECT DESIGN & PLANNING**    
+**Project design phase 1**          
+<button>
+    <a href="https://github.com/IBM-EPBL/IBM-Project-850-1658326108/tree/main/ProjectDesign%26Planning/Project%20Design%20Phase1">Click here
+</button>     
+**Project design phase 2**
+<button>
+  <a href="https://github.com/IBM-EPBL/IBM-Project-850-1658326108/tree/main/ProjectDesign%26Planning/Project%20Design%20Phase%202"><br>
+  Click here
+ </button><br>
+**Project Planning**
+  <button>
+  <a href="https://github.com/IBM-EPBL/IBM-Project-850-1658326108/tree/main/ProjectDesign%26Planning/Project%20Planning"><br>
+    Click here
+  </button>
+  
+ 
+
+
 ### 📫 How to reach Us <a href = "mailto: gokul.subramani33@gmail.com">Connect with Email</a>
 
 
